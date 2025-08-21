@@ -6,7 +6,7 @@
 
 Este projeto implementa uma calculadora web simples com o objetivo principal de demonstrar a aplicação da arquitetura **MVC (Model-View-Controller)** em um ambiente Node.js com Express. A interface do usuário (View) é desacoplada da lógica de negócio (Model), com o Controller atuando como intermediário.
 
-![Screenshot da Calculadora](./screenshot.png)
+![Screenshot da Calculadora](./public/asseats/screenshot.png)
 
 ## ✨ Features
 
@@ -91,7 +91,6 @@ O projeto expõe um único endpoint para realizar os cálculos.
     }
     ```
 
-Feito por Vitória Luz <3
-
 ---
-Feito por [Seu Nome]
+
+Feito por Vitória Luz <3
